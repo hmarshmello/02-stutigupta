@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @02-stutigupta
-- 👀 I’m interested in Coding and lifes unsaid secrets
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 Programming and imagining together 
+- 🌱 I'm currently learning R a
+- 💞️ Racing my head through various python based projects
 - 📫 How to reach me  - Can send mail on 19stutigupta@gmail.com
 
 <!---
