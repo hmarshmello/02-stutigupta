@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @02-stutigupta
+- 👋 Hi, I’m [@02-stutigupta](https://github.com/02-stutigupta)
 - 👀 Programming and imagining together 
 - 🌱 I'm currently learning R 
 - 💞️ Racing my head through various python based projects
