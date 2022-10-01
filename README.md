@@ -2,6 +2,7 @@
 - 👀 Programming and imagining together 
 - 🌱 I'm currently learning R 
 - 💞️ Racing my head through various python based projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=02-stutigupta" alt="02-stutigupta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
